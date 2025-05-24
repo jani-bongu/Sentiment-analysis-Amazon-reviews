@@ -32,6 +32,5 @@ I have good experience working with numerical and it is also easy to work and ma
 -|
 [Ben Roshan](https://www.linkedin.com/in/benroshan100/) |)
 
-## Credits
-- A huge shout-out to the kaggle dataset [Dataset](https://www.kaggle.com/eswarchandt/amazon-music-reviews).
+
 
